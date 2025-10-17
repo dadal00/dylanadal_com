@@ -12,7 +12,7 @@
 	<!-- Used for android devices pinning websites -->
 	<link rel="manifest" href={webManifest} />
 
-	<title>Dylan Adal's Portfolio</title>
+	<title>Hi! I'm Dylan!</title>
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/svg+xml" href={faviconSVG}/>
