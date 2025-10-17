@@ -16,7 +16,7 @@
 	<title>Dylan Adal's Portfolio</title>
 
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" href={faviconSVG}/>
+	<link rel="icon" type="image/png" href={favicon512}/>
 
 	<!-- Can't seem to get the icon working on safari dev -->
 	<link rel="apple-touch-icon" sizes="180x180" href={faviconApple} />
