@@ -1,7 +1,6 @@
 <script lang="ts">
 	import '../app.css'
 	import faviconSVG from '$lib/assets/favicon.svg'
-	import faviconApple from '$lib/assets/favicon-apple.png'
 	import webManifest from '$lib/assets/site.webmanifest'
 
 	let { children } = $props()
@@ -17,7 +16,7 @@
 	<link rel="icon" type="image/svg+xml" href={faviconSVG}/>
 
 	<!-- Can't seem to get the icon working on safari dev -->
-	<link rel="apple-touch-icon" href={faviconApple} />
+	<link rel="apple-touch-icon" sizes="180x180" href="%sveltekit.assets%/apple-touch-precomposed-icon.png" />
 </svelte:head>
 
 {@render children?.()}
