@@ -13,6 +13,11 @@
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 
-<div id="wasm">
-	<canvas bind:this={canvas} id="canvas"></canvas>
-</div>
+<body id="wasm-example" class="p-0 m-0">
+	<canvas
+	  bind:this={canvas}
+	  id="canvas"
+	  class="w-[1000px] p-0 m-0"
+	></canvas>
+  </body>
+  
