@@ -1,15 +1,21 @@
 {
-	"name": "simulation",
-	"type": "module",
-	"version": "0.1.0",
-	"files": [
-		"simulation_bg.wasm",
-		"simulation.js",
-		"simulation.d.ts"
-	],
-	"main": "simulation.js",
-	"types": "simulation.d.ts",
-	"sideEffects": [
-		"./snippets/*"
-	]
+  "name": "simulation",
+  "type": "module",
+  "description": "WGPU Simulation",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dadal00/simulation"
+  },
+  "files": [
+    "simulation_bg.wasm",
+    "simulation.js",
+    "simulation.d.ts"
+  ],
+  "main": "simulation.js",
+  "types": "simulation.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
 }
