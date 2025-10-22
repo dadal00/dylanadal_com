@@ -1,20 +1,14 @@
 {
-  "name": "simulation",
+  "name": "dylanadal_com_wgpu",
   "type": "module",
-  "description": "WGPU Simulation",
   "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dadal00/simulation"
-  },
   "files": [
-    "simulation_bg.wasm",
-    "simulation.js",
-    "simulation.d.ts"
+    "dylanadal_com_wgpu_bg.wasm",
+    "dylanadal_com_wgpu.js",
+    "dylanadal_com_wgpu.d.ts"
   ],
-  "main": "simulation.js",
-  "types": "simulation.d.ts",
+  "main": "dylanadal_com_wgpu.js",
+  "types": "dylanadal_com_wgpu.d.ts",
   "sideEffects": [
     "./snippets/*"
   ]

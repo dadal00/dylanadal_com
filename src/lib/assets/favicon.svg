@@ -1,11 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1500"><svg width="1500" height="1500" viewBox="0 0 1500 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="750" cy="750" r="750" fill="#2D7BC0"></circle>
-<circle cx="453" cy="759" r="250" fill="white"></circle>
-<circle cx="453.5" cy="758.5" r="162.5" fill="#2C7BC0"></circle>
-<rect x="616" y="362" width="87" height="440" rx="43.5" fill="white"></rect>
-<circle cx="1015" cy="759" r="250" fill="white"></circle>
-<circle cx="1015.5" cy="758.5" r="162.5" fill="#2C7BC0"></circle>
-<rect x="1178" y="709" width="87" height="300" rx="43.5" fill="white"></rect>
-</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
-@media (prefers-color-scheme: dark) { :root { filter: none; } }
-</style></svg>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1500"
+  height="1500"
+>
+  <svg
+    width="1500"
+    height="1500"
+    viewBox="0 0 1500 1500"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle cx="750" cy="750" r="750" fill="#2D7BC0"></circle>
+    <circle cx="453" cy="759" r="250" fill="white"></circle>
+    <circle cx="453.5" cy="758.5" r="162.5" fill="#2C7BC0"></circle>
+    <rect x="616" y="362" width="87" height="440" rx="43.5" fill="white"></rect>
+    <circle cx="1015" cy="759" r="250" fill="white"></circle>
+    <circle cx="1015.5" cy="758.5" r="162.5" fill="#2C7BC0"></circle>
+    <rect
+      x="1178"
+      y="709"
+      width="87"
+      height="300"
+      rx="43.5"
+      fill="white"
+    ></rect>
+  </svg><style>
+  @media (prefers-color-scheme: light) {
+    :root {
+      filter: none;
+    }
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      filter: none;
+    }
+  }
+  </style>
+</svg>
