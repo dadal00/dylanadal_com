@@ -17,7 +17,7 @@
 	<canvas
 	  bind:this={canvas}
 	  id="canvas"
-	  class="w-[100px] p-0 m-0"
+	  class="w-[500px] p-0 m-0"
 	></canvas>
   </body>
   
