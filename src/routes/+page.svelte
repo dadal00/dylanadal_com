@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte'
-	import init from '$lib/pkg/simulation.js'
+	import init from '$lib/pkg/dylanadal_com_wgpu.js'
 
 	let canvas
 
