@@ -16,8 +16,6 @@
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/svg+xml" href={faviconSVG} />
-
-	<!-- Can't seem to get the icon working on safari dev -->
 	<link rel="apple-touch-icon" sizes="180x180" href={faviconApple} />
 </svelte:head>
 
