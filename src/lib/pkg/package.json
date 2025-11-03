@@ -1,0 +1,20 @@
+{
+  "name": "dylanadal_com_wgpu",
+  "type": "module",
+  "description": "Personal website animation.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dadal00/dylanadal_com_wgpu"
+  },
+  "files": [
+    "dylanadal_com_wgpu_bg.wasm",
+    "dylanadal_com_wgpu.js",
+    "dylanadal_com_wgpu.d.ts"
+  ],
+  "main": "dylanadal_com_wgpu.js",
+  "types": "dylanadal_com_wgpu.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
